@@ -1,152 +1,28 @@
 {
-    "code": 200011,
-    "version": "2.2.1",
-    "created_at": "2026-03-23T14:30:26Z",
+    "code": 10,
+    "version": "0.1.0",
+    "created_at": "2026-05-22T00:00:00Z",
     "default_cloud_drive": {
-        "language": "zh",
-        "link": "https://www.123865.com/s/YLIUVv-6ve0v"
+        "language": "en",
+        "link": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/latest",
+        "links": [
+            {
+                "name": "GitHub Releases",
+                "link": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/latest"
+            }
+        ]
     },
     "files": [
         {
-            "file_name": "ZalithLauncher-2.2.1-arm64-v8a.apk",
-            "uri": "https://github.com/ZalithLauncher/ZalithLauncher2/releases/download/2.2.1/ZalithLauncher-2.2.1-arm64-v8a.apk",
+            "file_name": "FuryMCLauncher-0.1.0-arm64-v8a.apk",
+            "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.0/FuryMCLauncher-0.1.0-arm64-v8a.apk",
             "arch": "arm64",
-            "size": 182780134
-        },
-        {
-            "file_name": "ZalithLauncher-2.2.1-armeabi-v7a.apk",
-            "uri": "https://github.com/ZalithLauncher/ZalithLauncher2/releases/download/2.2.1/ZalithLauncher-2.2.1-armeabi-v7a.apk",
-            "arch": "arm",
-            "size": 175925959
-        },
-        {
-            "file_name": "ZalithLauncher-2.2.1-x86.apk",
-            "uri": "https://github.com/ZalithLauncher/ZalithLauncher2/releases/download/2.2.1/ZalithLauncher-2.2.1-x86.apk",
-            "arch": "x86",
-            "size": 167176416
-        },
-        {
-            "file_name": "ZalithLauncher-2.2.1-x86_64.apk",
-            "uri": "https://github.com/ZalithLauncher/ZalithLauncher2/releases/download/2.2.1/ZalithLauncher-2.2.1-x86_64.apk",
-            "arch": "x86_64",
-            "size": 186576670
-        },
-        {
-            "file_name": "ZalithLauncher-2.2.1.apk",
-            "uri": "https://github.com/ZalithLauncher/ZalithLauncher2/releases/download/2.2.1/ZalithLauncher-2.2.1.apk",
-            "arch": "all",
-            "size": 320282108
+            "size": 0
         }
     ],
     "default_body": {
         "language": "en",
-        "chunks": [
-            {
-                "title": "Update:",
-                "texts": [
-                    {
-                        "text": "Synchronized languages from",
-                        "links": [
-                            {
-                                "text": "Weblate",
-                                "link": "https://hosted.weblate.org/projects/zalithlauncher2/"
-                            }
-                        ]
-                    },
-                    {
-                        "text": "LWJGL: Updated to 3.3.6"
-                    },
-                    {
-                        "text": "Java Environment: Added JRE 25"
-                    },
-                    {
-                        "text": "Updates: Changelogs now use Markdown format"
-                    },
-                    {
-                        "text": "CurseForge: Added Performance Optimization and Other categories"
-                    },
-                    {
-                        "text": "Patcher: Disabled the Create mod warning for Pojav"
-                    },
-                    {
-                        "text": "Settings: Added Filipino to the language list"
-                    }
-                ]
-            },
-            {
-                "title": "Fix:",
-                "texts": [
-                    {
-                        "text": "Options:"
-                    },
-                    {
-                        "text": "Always disable the “Narrator” option",
-                        "indentation": 1
-                    },
-                    {
-                        "text": "Always disable the “Touchscreen Mode” option",
-                        "indentation": 1
-                    },
-                    {
-                        "text": "Save Management: Unable to read seed from the new save data structure"
-                    }
-                ]
-            }
-        ]
+        "markdown": "## FuryMC Launcher v0.1.0 Release\n\nThis is the first proper release of FuryMC Launcher. Expect it to have bugs. It includes all features from Zalith Launcher 2 v2.4.4, with the exception of official Minecraft login (which will be added in future updates).\n\n### Changes:\n- Synced with Zalith Launcher 2 v2.4.4 core.\n- Re-added Offline Login capabilities.\n- Refined About screen with Discord links.\n- Purged sensitive data and fixed CurseForge API integration.\n\n### 🤖 AI Assistance\nThis project is mostly developed and maintained with the help of AI assistance.\nI am sorry that I use AI to do most of the work, but I reassure you that I will try my best to not mess anything up and be as helpful as possible."
     },
-    "bodies": [
-        {
-            "language": "zh",
-            "chunks": [
-                {
-                    "title": "更新：",
-                    "texts": [
-                        {
-                            "text": "同步 Weblate 项目语言",
-                            "links": [
-                                {
-                                    "text": "Weblate",
-                                    "link": "https://hosted.weblate.org/projects/zalithlauncher2/"
-                                }
-                            ]
-                        },
-                        {
-                            "text": "LWJGL：更新至 3.3.6"
-                        },
-                        {
-                            "text": "Java环境：加入 JRE 25"
-                        },
-                        {
-                            "text": "更新：更新日志使用 Markdown 格式"
-                        },
-                        {
-                            "text": "CurseForge：加入性能优化、其他类别选项"
-                        },
-                        {
-                            "text": "Patcher：禁用机械动力对 Pojav 端的警告"
-                        }
-                    ]
-                },
-                {
-                    "title": "修复：",
-                    "texts": [
-                        {
-                            "text": "options："
-                        },
-                        {
-                            "text": "始终关闭“复述功能”选项",
-                            "indentation": 1
-                        },
-                        {
-                            "text": "始终关闭“触屏模式”选项",
-                            "indentation": 1
-                        },
-                        {
-                            "text": "存档管理：无法读取新存档数据结构中的种子"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+    "bodies": []
 }
