@@ -1,7 +1,7 @@
 {
     "code": 12,
     "version": "0.1.2",
-    "created_at": "2026-05-23T23:55:00Z",
+    "created_at": "2026-05-23T20:30:00Z",
     "default_cloud_drive": {
         "language": "en",
         "link": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/latest",
@@ -21,7 +21,7 @@
     ],
     "default_body": {
         "language": "en",
-        "markdown": "## FuryMC Launcher v0.1.2 - The Quality of Life Update\n\n### 🚀 Key Improvements:\n- **Full Architecture Support:** Now providing APKs for all devices (arm64, arm32, x86, x64).\n- **UI Polishing:** Fixed update dialog button deformation.\n- **Announcement System:** Integrated news and notice support directly into the launcher.\n- **Improved Branding:** Corrected sponsorship links and version reporting.\n\n### 🛡️ Core Features:\n- **Offline Login:** Full support for local accounts.\n- **ZL2 v2.4.4 Core:** Inherits all latest performance improvements.\n\n### ⚠️ Note:\nMicrosoft login remains hidden to prioritize the offline experience refinement.\n\n### 🤖 AI Assistance\nMaintained with AI assistance. Transparency and quality are our priorities."
+        "markdown": "### FuryMC Launcher v0.1.2 - Milestone Update\n\nWe are committed to delivering the best offline Minecraft experience on Android. This update focuses on architecture parity, UI stability, and a new communication system.\n\n#### 🚀 Platform Expansion\n- **Full Architecture Support**: We now provide native binaries for **arm64-v8a**, **armeabi-v7a**, **x86**, and **x86_64**. No matter your device, FuryMC has you covered.\n- **Universal Build**: A single APK that works on all supported architectures is also available.\n\n#### 🎨 UI & UX Refinements\n- **Dialog Stability**: Fixed a layout bug in the upgrade dialog where the 'View' button would deform on certain screen aspect ratios. All buttons now scale proportionally.\n- **Announcements**: Integrated a new notice system. Stay informed about project status and important updates directly within the launcher.\n\n#### 🛠️ Core Improvements\n- **Sanitized Repository**: Purged legacy build artifacts and optimized repository history.\n- **Sponsorship Clarity**: Corrected original author links and attribution to respect the Zalith Launcher 2 team's work.\n\n#### ⚠️ Important Notice\nMicrosoft/Official login remains hidden in this release. We are prioritizing the perfection of the offline/local workflow before re-introducing online capabilities.\n\n--- \n*Maintained with AI assistance. Built with ❤️ for the community.*"
     },
     "bodies": []
 }
