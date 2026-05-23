@@ -1,27 +1,27 @@
 {
     "code": 12,
     "version": "0.1.2",
-    "created_at": "2026-05-23T20:30:00Z",
+    "created_at": "2026-05-23T21:00:00Z",
     "default_cloud_drive": {
         "language": "en",
         "link": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/latest",
         "links": [
             {
-                "name": "GitHub Releases",
+                "name": "GitHub",
                 "link": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/latest"
             }
         ]
     },
     "files": [
-        { "file_name": "FuryMCLauncher-v0.1.2-arm64.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-v0.1.2-arm64.apk", "arch": "arm64", "size": 187695104 },
-        { "file_name": "FuryMCLauncher-v0.1.2-arm32.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-v0.1.2-arm32.apk", "arch": "arm", "size": 181403648 },
-        { "file_name": "FuryMCLauncher-v0.1.2-x86.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-v0.1.2-x86.apk", "arch": "x86", "size": 173015040 },
-        { "file_name": "FuryMCLauncher-v0.1.2-x64.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-v0.1.2-x64.apk", "arch": "x86_64", "size": 191889408 },
-        { "file_name": "FuryMCLauncher-v0.1.2-all.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-v0.1.2-all.apk", "arch": "all", "size": 324009984 }
+        { "file_name": "FuryMCLauncher-0.1.2-arm64-v8a.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-0.1.2-arm64-v8a.apk", "arch": "arm64", "size": 187695104 },
+        { "file_name": "FuryMCLauncher-0.1.2-armeabi-v7a.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-0.1.2-armeabi-v7a.apk", "arch": "arm", "size": 181403648 },
+        { "file_name": "FuryMCLauncher-0.1.2-x86.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-0.1.2-x86.apk", "arch": "x86", "size": 173015040 },
+        { "file_name": "FuryMCLauncher-0.1.2-x86_64.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-0.1.2-x86_64.apk", "arch": "x86_64", "size": 191889408 },
+        { "file_name": "FuryMCLauncher-0.1.2-universal.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-0.1.2-universal.apk", "arch": "all", "size": 324009984 }
     ],
     "default_body": {
         "language": "en",
-        "markdown": "### FuryMC Launcher v0.1.2 - Milestone Update\n\nWe are committed to delivering the best offline Minecraft experience on Android. This update focuses on architecture parity, UI stability, and a new communication system.\n\n#### 🚀 Platform Expansion\n- **Full Architecture Support**: We now provide native binaries for **arm64-v8a**, **armeabi-v7a**, **x86**, and **x86_64**. No matter your device, FuryMC has you covered.\n- **Universal Build**: A single APK that works on all supported architectures is also available.\n\n#### 🎨 UI & UX Refinements\n- **Dialog Stability**: Fixed a layout bug in the upgrade dialog where the 'View' button would deform on certain screen aspect ratios. All buttons now scale proportionally.\n- **Announcements**: Integrated a new notice system. Stay informed about project status and important updates directly within the launcher.\n\n#### 🛠️ Core Improvements\n- **Sanitized Repository**: Purged legacy build artifacts and optimized repository history.\n- **Sponsorship Clarity**: Corrected original author links and attribution to respect the Zalith Launcher 2 team's work.\n\n#### ⚠️ Important Notice\nMicrosoft/Official login remains hidden in this release. We are prioritizing the perfection of the offline/local workflow before re-introducing online capabilities.\n\n--- \n*Maintained with AI assistance. Built with ❤️ for the community.*"
+        "markdown": "## FuryMC Launcher v0.1.2\n- Synced with Zalith Launcher 2 v2.4.4\n- Full architecture support added\n- Notice system integration\n- UI layout bug fixes"
     },
     "bodies": []
 }
