@@ -13,11 +13,11 @@
         ]
     },
     "files": [
-        { "file_name": "FuryMCLauncher-v0.1.2-arm64.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-v0.1.2-arm64.apk", "arch": "arm64", "size": 0 },
-        { "file_name": "FuryMCLauncher-v0.1.2-arm32.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-v0.1.2-arm32.apk", "arch": "arm", "size": 0 },
-        { "file_name": "FuryMCLauncher-v0.1.2-x86.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-v0.1.2-x86.apk", "arch": "x86", "size": 0 },
-        { "file_name": "FuryMCLauncher-v0.1.2-x64.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-v0.1.2-x64.apk", "arch": "x86_64", "size": 0 },
-        { "file_name": "FuryMCLauncher-v0.1.2-all.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-v0.1.2-all.apk", "arch": "all", "size": 0 }
+        { "file_name": "FuryMCLauncher-v0.1.2-arm64.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-v0.1.2-arm64.apk", "arch": "arm64", "size": 187695104 },
+        { "file_name": "FuryMCLauncher-v0.1.2-arm32.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-v0.1.2-arm32.apk", "arch": "arm", "size": 181403648 },
+        { "file_name": "FuryMCLauncher-v0.1.2-x86.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-v0.1.2-x86.apk", "arch": "x86", "size": 173015040 },
+        { "file_name": "FuryMCLauncher-v0.1.2-x64.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-v0.1.2-x64.apk", "arch": "x86_64", "size": 191889408 },
+        { "file_name": "FuryMCLauncher-v0.1.2-all.apk", "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.2/FuryMCLauncher-v0.1.2-all.apk", "arch": "all", "size": 324009984 }
     ],
     "default_body": {
         "language": "en",
