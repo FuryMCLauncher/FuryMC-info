@@ -1,17 +1,17 @@
 {
-  "version_code": 10,
-  "version_name": "0.1.0",
+  "version_code": 11,
+  "version_name": "0.1.1",
   "title": {
-    "en_us": "FuryMC v0.1.0",
-    "zh_cn": "FuryMC v0.1.0",
-    "zh_tw": "FuryMC v0.1.0"
+    "en_us": "FuryMC v0.1.1",
+    "zh_cn": "FuryMC v0.1.1",
+    "zh_tw": "FuryMC v0.1.1"
   },
   "description": {
     "en_us": "First proper release of FuryMC Launcher.\n- Synced with Zalith v2.4.4\n- Offline Login enabled\n- Custom branding applied",
     "zh_cn": "FuryMC Launcher 第一个正式发布版本。\n- 同步至 Zalith v2.4.4\n- 开启离线登录\n- 应用自定义品牌",
     "zh_tw": "FuryMC Launcher 第一個正式發布版本。\n- 同步至 Zalith v2.4.4\n- 開啟離線登錄\n- 應用自定義品牌"
   },
-  "published_at": "2026-05-23T00:00:00Z",
+  "published_at": "2026-05-23T23:30:00Z",
   "file_size": {
     "all": 0,
     "arm": 0,

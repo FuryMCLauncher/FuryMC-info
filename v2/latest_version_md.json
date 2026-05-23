@@ -1,7 +1,7 @@
 {
-    "code": 10,
-    "version": "0.1.0",
-    "created_at": "2026-05-23T00:00:00Z",
+    "code": 11,
+    "version": "0.1.1",
+    "created_at": "2026-05-23T23:30:00Z",
     "default_cloud_drive": {
         "language": "en",
         "link": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/latest",
@@ -14,15 +14,21 @@
     },
     "files": [
         {
-            "file_name": "FuryMCLauncher-0.1.0-arm64-v8a.apk",
-            "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.0/FuryMCLauncher-0.1.0-arm64-v8a.apk",
+            "file_name": "FuryMCLauncher-v0.1.1-arm64.apk",
+            "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.1/FuryMCLauncher-v0.1.1-arm64.apk",
             "arch": "arm64",
-            "size": 187520119
+            "size": 187520155
+        },
+        {
+            "file_name": "FuryMCLauncher-v0.1.1-all.apk",
+            "uri": "https://github.com/FuryMCLauncher/FuryMCLauncher/releases/download/v0.1.1/FuryMCLauncher-v0.1.1-all.apk",
+            "arch": "all",
+            "size": 187520155
         }
     ],
     "default_body": {
         "language": "en",
-        "markdown": "## FuryMC Launcher v0.1.0 Release\n\nThis is the first proper release of FuryMC Launcher. Expect it to have bugs. It includes all features from Zalith Launcher 2 v2.4.4, with the exception of official Minecraft login (which will be added in future updates).\n\n### Changes:\n- Synced with Zalith Launcher 2 v2.4.4 core.\n- Re-added Offline Login capabilities.\n- Refined About screen with Discord links.\n- Purged sensitive data and fixed CurseForge API integration.\n\n### 🤖 AI Assistance\nThis project is mostly developed and maintained with the help of AI assistance.\nI am sorry that I use AI to do most of the work, but I reassure you that I will try my best to not mess anything up and be as helpful as possible."
+        "markdown": "## FuryMC Launcher v0.1.1 Release\n\nThis is the first proper release of FuryMC Launcher.\n\n### Changes:\n- Synced with Zalith Launcher 2 v2.4.4 core.\n- Re-added Offline Login capabilities.\n- Refined About screen with Discord links.\n- Purged sensitive data and fixed CurseForge API integration.\n- Fixed repository history issue.\n\n### 🤖 AI Assistance\nThis project is developed and maintained with AI assistance. We apologize for any previous mistakes."
     },
     "bodies": []
 }
