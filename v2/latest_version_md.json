@@ -21,7 +21,7 @@
     ],
     "default_body": {
         "language": "en",
-        "markdown": "## FuryMC Launcher v0.1.3\n- **FIXED**: Restored Offline (Local) Login option in account menu.\n- **FIXED**: Removed Microsoft login option as requested.\n- Synced with Zalith Launcher 2 v2.4.4\n- Notice system integration enabled."
+        "markdown": "## FuryMC Launcher v0.1.3\n- **FIXED**: Restored Offline (Local) Login option in account menu.\n- **FIXED**: Corrected Upgrade Dialog layout.\n- Synced with Zalith Launcher 2 v2.4.4\n- Announcement system integrated."
     },
     "bodies": []
 }
