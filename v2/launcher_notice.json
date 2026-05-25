@@ -1,14 +1,14 @@
 {
   "title": {
-    "zh_cn": "FuryMC 测试公告",
-    "zh_tw": "FuryMC 測試公告",
-    "en_us": "FuryMC Test Notice"
+    "zh_cn": "NONE",
+    "zh_tw": "NONE",
+    "en_us": "NONE"
   },
   "content": {
-    "zh_cn": "这是一条来自 FuryMC Launcher 的测试公告。如果你能看到这条消息，说明更新推送系统配置成功！",
-    "zh_tw": "這是一條來自 FuryMC Launcher 的測試公告。如果你能看到這條消息，說明更新推送系統配置成功！",
-    "en_us": "This is a test notice from FuryMC Launcher. If you can see this message, the update push system configuration is successful!"
+    "zh_cn": "NONE",
+    "zh_tw": "NONE",
+    "en_us": "NONE"
   },
-  "date": "2026/05/23",
-  "numbering": 100
+  "date": "2026-05-24",
+  "numbering": 0
 }
